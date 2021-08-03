@@ -112,13 +112,14 @@ nav .fa{
     nav .fa{
         display: block;
         color: white;
-        font-size: 10px;
+        font-size: 15px;
         cursor: pointer;
     }
     .nav-links ul{
         padding: 30px;
     }
 }
+<<<<<<< HEAD
 /*------services------*/
 
 .service{
@@ -144,3 +145,5 @@ p{
     display: flex;
     justify-content: space-between;
 }
+=======
+>>>>>>> cc4dc3d1eb23abb081df93bf03487fb8437a1100
