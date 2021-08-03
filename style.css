@@ -145,5 +145,17 @@ p{
     display: flex;
     justify-content: space-between;
 }
-=======
->>>>>>> cc4dc3d1eb23abb081df93bf03487fb8437a1100
+.course-col{
+    flex-basis: 31%;
+    background: #fff3f3;
+    border-radius: 10px;
+    margin-bottom: 5%;
+    padding: 20px 12px;
+    box-sizing: border-box;
+    
+}
+h3{
+    text-align: center;
+    font-weight: 600;
+    margin: 10px 0;
+}
