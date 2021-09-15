@@ -1,0 +1,345 @@
+HTTrack3.49-2+htsswf+htsjava launched on Tue, 14 Sep 2021 21:37:55 at https://www.cybelius.fr/ +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar
+(winhttrack -qwC2%Ps2u1%s%uN0%I0p3DaK0H0%kf2A25000%f#f -F "Mozilla/4.5 (compatible; HTTrack 3.0x; Windows 98)" -%F "<!-- Mirrored from %s%s by HTTrack Website Copier/3.x [XR&CO'2014], %s -->" -%l "en, *" https://www.cybelius.fr/ -O1 "C:\Users\riko\Downloads\cymutec" +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar )
+
+Information, Warnings and Errors reported for this mirror:
+note:	the hts-log.txt file, and hts-cache folder, may contain sensitive information,
+	such as username/password authentication for websites mirrored in this project
+	do not share these files/folders if you want these information to remain private
+
+21:37:56	Warning: 	Note: due to https://www.cybelius.fr remote robots.txt rules, links beginning with these path will be forbidden: /wp-admin/ (see in the options to disable this)
+21:38:20	Warning: 	file not stored in cache due to bogus state (incomplete type with OK (200), size 0): https://www.cybelius.fr/xmlrpc.php?rsd
+21:38:25	Warning: 	file not stored in cache due to bogus state (incomplete type with OK (200), size 0): https://www.cybelius.fr/index.php?rest_route=%2Foembed%2F1.0%2Fembed&url=https%3A%2F%2Fwww.cybelius.fr%2F&format=xml
+21:39:50	Warning: 	file not stored in cache due to bogus state (incomplete type with OK (200), size 0): https://www.cybelius.fr/index.php?rest_route=%2Foembed%2F1.0%2Fembed&url=https%3A%2F%2Fwww.cybelius.fr%2F%3Flang%3Den&format=xml
+21:40:38	Warning: 	file not stored in cache due to bogus state (incomplete type with OK (200), size 0): https://www.cybelius.fr/index.php?rest_route=%2Foembed%2F1.0%2Fembed&url=https%3A%2F%2Fwww.cybelius.fr%2F%3Fpage_id%3D2105&format=xml
+21:40:46	Warning: 	file not stored in cache due to bogus state (incomplete type with OK (200), size 0): https://www.cybelius.fr/index.php?rest_route=%2Foembed%2F1.0%2Fembed&url=https%3A%2F%2Fwww.cybelius.fr%2F%3Fpage_id%3D1856&format=xml
+21:40:55	Warning: 	file not stored in cache due to bogus state (incomplete type with OK (200), size 0): https://www.cybelius.fr/index.php?rest_route=%2Foembed%2F1.0%2Fembed&url=https%3A%2F%2Fwww.cybelius.fr%2F%3Fpage_id%3D2134&format=xml
+21:41:07	Warning: 	file not stored in cache due to bogus state (incomplete type with OK (200), size 0): https://www.cybelius.fr/index.php?rest_route=%2Foembed%2F1.0%2Fembed&url=https%3A%2F%2Fwww.cybelius.fr%2F%3Fpage_id%3D2108&format=xml
+21:41:14	Warning: 	file not stored in cache due to bogus state (incomplete type with OK (200), size 0): https://www.cybelius.fr/index.php?rest_route=%2Foembed%2F1.0%2Fembed&url=https%3A%2F%2Fwww.cybelius.fr%2F%3Fpage_id%3D3197&format=xml
+21:41:22	Warning: 	file not stored in cache due to bogus state (incomplete type with OK (200), size 0): https://www.cybelius.fr/index.php?rest_route=%2Foembed%2F1.0%2Fembed&url=https%3A%2F%2Fwww.cybelius.fr%2F%3Fpage_id%3D2813&format=xml
+21:41:31	Warning: 	file not stored in cache due to bogus state (incomplete type with OK (200), size 0): https://www.cybelius.fr/index.php?rest_route=%2Foembed%2F1.0%2Fembed&url=https%3A%2F%2Fwww.cybelius.fr%2F%3Fpage_id%3D2815&format=xml
+21:41:42	Warning: 	file not stored in cache due to bogus state (incomplete type with OK (200), size 0): https://www.cybelius.fr/index.php?rest_route=%2Foembed%2F1.0%2Fembed&url=https%3A%2F%2Fwww.cybelius.fr%2F%3Fpage_id%3D2817&format=xml
+21:41:49	Warning: 	file not stored in cache due to bogus state (incomplete type with OK (200), size 0): https://www.cybelius.fr/index.php?rest_route=%2Foembed%2F1.0%2Fembed&url=https%3A%2F%2Fwww.cybelius.fr%2F%3Fpage_id%3D2030&format=xml
+21:41:59	Warning: 	file not stored in cache due to bogus state (incomplete type with OK (200), size 0): https://www.cybelius.fr/index.php?rest_route=%2Foembed%2F1.0%2Fembed&url=https%3A%2F%2Fwww.cybelius.fr%2F%3Fpage_id%3D2032&format=xml
+21:42:41	Warning: 	file not stored in cache due to bogus state (incomplete type with OK (200), size 0): https://www.cybelius.fr/index.php?rest_route=%2Foembed%2F1.0%2Fembed&url=https%3A%2F%2Fwww.cybelius.fr%2F%3Fpage_id%3D2035&format=xml
+21:43:01	Warning: 	file not stored in cache due to bogus state (incomplete type with OK (200), size 0): https://www.cybelius.fr/index.php?rest_route=%2Foembed%2F1.0%2Fembed&url=https%3A%2F%2Fwww.cybelius.fr%2F%3Fpage_id%3D3944&format=xml
+21:43:01	Error: 	"Not Found" (404) at link https://site4.stellis-vm1.nfrance.net/wp-content/uploads/2021/03/pexels-pixabay-326410-scaled.jpg (from https://www.cybelius.fr/)
+21:43:01	Error: 	"Not Found" (404) at link https://site4.stellis-vm1.nfrance.net/wp-content/uploads/2021/03/1200px-ANSSI_Logo.svg_-1030x1030.png (from https://www.cybelius.fr/)
+21:43:01	Error: 	"Not Found" (404) at link https://site4.stellis-vm1.nfrance.net/wp-content/uploads/2021/03/iec-1030x1030.png (from https://www.cybelius.fr/)
+21:43:01	Error: 	"Not Found" (404) at link https://site4.stellis-vm1.nfrance.net/wp-content/uploads/2021/03/isoo-1030x853.png (from https://www.cybelius.fr/)
+21:43:16	Warning: 	file not stored in cache due to bogus state (incomplete type with OK (200), size 0): https://www.cybelius.fr/index.php?rest_route=%2Foembed%2F1.0%2Fembed&url=https%3A%2F%2Fwww.cybelius.fr%2F%3Fp%3D4375&format=xml
+21:43:24	Warning: 	file not stored in cache due to bogus state (incomplete type with OK (200), size 0): https://www.cybelius.fr/index.php?rest_route=%2Foembed%2F1.0%2Fembed&url=https%3A%2F%2Fwww.cybelius.fr%2F%3Fp%3D2636&format=xml
+21:44:04	Warning: 	file not stored in cache due to bogus state (incomplete type with OK (200), size 0): https://www.cybelius.fr/index.php?rest_route=%2Foembed%2F1.0%2Fembed&url=https%3A%2F%2Fwww.cybelius.fr%2F%3Fp%3D2523&format=xml
+21:45:05	Error: 	"Service Unavailable" (503) at link https://www.cybelius.fr/?feed=comments-rss2&lang=en (from https://www.cybelius.fr/?lang=en)
+21:45:05	Error: 	"Service Unavailable" (503) at link https://www.cybelius.fr/index.php?rest_route=/wp/v2/pages/3934 (from https://www.cybelius.fr/?lang=en)
+21:45:12	Warning: 	file not stored in cache due to bogus state (incomplete type with OK (200), size 0): https://www.cybelius.fr/index.php?rest_route=%2Foembed%2F1.0%2Fembed&url=https%3A%2F%2Fwww.cybelius.fr%2F%3Fpage_id%3D3781%26lang%3Den&format=xml
+21:45:19	Warning: 	file not stored in cache due to bogus state (incomplete type with OK (200), size 0): https://www.cybelius.fr/index.php?rest_route=%2Foembed%2F1.0%2Fembed&url=https%3A%2F%2Fwww.cybelius.fr%2F%3Fpage_id%3D3721%26lang%3Den&format=xml
+21:45:37	Warning: 	file not stored in cache due to bogus state (incomplete type with OK (200), size 0): https://www.cybelius.fr/index.php?rest_route=%2Foembed%2F1.0%2Fembed&url=https%3A%2F%2Fwww.cybelius.fr%2F%3Fpage_id%3D3783%26lang%3Den&format=xml
+21:45:44	Warning: 	file not stored in cache due to bogus state (incomplete type with OK (200), size 0): https://www.cybelius.fr/index.php?rest_route=%2Foembed%2F1.0%2Fembed&url=https%3A%2F%2Fwww.cybelius.fr%2F%3Fpage_id%3D3789%26lang%3Den&format=xml
+21:45:50	Warning: 	file not stored in cache due to bogus state (incomplete type with OK (200), size 0): https://www.cybelius.fr/index.php?rest_route=%2Foembed%2F1.0%2Fembed&url=https%3A%2F%2Fwww.cybelius.fr%2F%3Fpage_id%3D3793%26lang%3Den&format=xml
+21:45:57	Warning: 	file not stored in cache due to bogus state (incomplete type with OK (200), size 0): https://www.cybelius.fr/index.php?rest_route=%2Foembed%2F1.0%2Fembed&url=https%3A%2F%2Fwww.cybelius.fr%2F%3Fpage_id%3D3797%26lang%3Den&format=xml
+21:46:18	Warning: 	file not stored in cache due to bogus state (incomplete type with OK (200), size 0): https://www.cybelius.fr/index.php?rest_route=%2Foembed%2F1.0%2Fembed&url=https%3A%2F%2Fwww.cybelius.fr%2F%3Fpage_id%3D3800%26lang%3Den&format=xml
+21:46:38	Warning: 	file not stored in cache due to bogus state (incomplete type with OK (200), size 0): https://www.cybelius.fr/index.php?rest_route=%2Foembed%2F1.0%2Fembed&url=https%3A%2F%2Fwww.cybelius.fr%2F%3Fpage_id%3D3803%26lang%3Den&format=xml
+21:46:49	Warning: 	file not stored in cache due to bogus state (incomplete type with OK (200), size 0): https://www.cybelius.fr/index.php?rest_route=%2Foembed%2F1.0%2Fembed&url=https%3A%2F%2Fwww.cybelius.fr%2F%3Fpage_id%3D2736%26lang%3Den&format=xml
+21:46:51	Error: 	"Not Found" (404) at link https://site4.stellis-vm1.nfrance.net/wp-content/uploads/2021/03/1200px-ANSSI_Logo.svg_-e1616691176842.png (from https://www.cybelius.fr/?lang=en)
+21:47:09	Error: 	"Not Found" (404) at link https://site4.stellis-vm1.nfrance.net/wp-content/uploads/2021/03/iec.png (from https://www.cybelius.fr/?lang=en)
+21:47:12	Error: 	"Not Found" (404) at link https://site4.stellis-vm1.nfrance.net/wp-content/uploads/2021/03/isoo.png (from https://www.cybelius.fr/?lang=en)
+21:47:22	Warning: 	Moved Permanently for https://www.cybelius.fr/?p=2105
+21:47:22	Warning: 	File has moved from https://www.cybelius.fr/?p=2105 to https://www.cybelius.fr/?page_id=2105
+21:47:54	Warning: 	Moved Permanently for https://www.cybelius.fr/?p=1856
+21:47:54	Warning: 	File has moved from https://www.cybelius.fr/?p=1856 to https://www.cybelius.fr/?page_id=1856
+21:48:25	Warning: 	file not stored in cache due to bogus state (incomplete type with OK (200), size 0): https://www.cybelius.fr/index.php?rest_route=%2Foembed%2F1.0%2Fembed&url=https%3A%2F%2Fwww.cybelius.fr%2F%3Fpage_id%3D793&format=xml
+21:48:38	Warning: 	file not stored in cache due to bogus state (incomplete type with OK (200), size 0): https://www.cybelius.fr/index.php?rest_route=%2Foembed%2F1.0%2Fembed&url=https%3A%2F%2Fwww.cybelius.fr%2F%3Fpage_id%3D1936&format=xml
+21:48:40	Error: 	"Not Found" (404) at link https://site4.stellis-vm1.nfrance.net/wp-content/uploads/2021/03/Inetum-300x106.png (from https://www.cybelius.fr/?page_id=2134)
+21:48:40	Warning: 	Moved Permanently for https://www.cybelius.fr/?p=2134
+21:48:40	Warning: 	File has moved from https://www.cybelius.fr/?p=2134 to https://www.cybelius.fr/?page_id=2134
+21:48:40	Error: 	"Not Found" (404) at link https://site4.stellis-vm1.nfrance.net/wp-content/uploads/2021/03/NP-300x119.png (from https://www.cybelius.fr/?page_id=2134)
+21:48:40	Error: 	"Not Found" (404) at link https://site4.stellis-vm1.nfrance.net/wp-content/uploads/2021/03/semeru2-300x144.png (from https://www.cybelius.fr/?page_id=2134)
+21:48:40	Error: 	"Not Found" (404) at link https://www.cybelius.fr/wp-content/uploads/2021/02/Capture-d’écran-2021-02-16-à-15.31.37.png (from https://www.cybelius.fr/?page_id=2134)
+21:48:40	Warning: 	Moved Permanently for https://www.cybelius.fr/?p=2108
+21:48:40	Warning: 	File has moved from https://www.cybelius.fr/?p=2108 to https://www.cybelius.fr/?page_id=2108
+21:48:40	Error: 	"Not Found" (404) at link https://www.cybelius.fr/nos-solutions/evaluation/ (from https://www.cybelius.fr/?page_id=2108)
+21:48:40	Error: 	"Not Found" (404) at link https://site4.stellis-vm1.nfrance.net/wp-content/uploads/2021/03/Capture-decran-2021-03-23-a-13.21.12-300x163.png (from https://www.cybelius.fr/?page_id=3197)
+21:48:40	Warning: 	Moved Permanently for https://www.cybelius.fr/?p=3197
+21:48:40	Warning: 	File has moved from https://www.cybelius.fr/?p=3197 to https://www.cybelius.fr/?page_id=3197
+21:48:40	Error: 	"Not Found" (404) at link https://site4.stellis-vm1.nfrance.net/wp-content/uploads/2021/03/SCHEMA-EVALUATION-1-300x100.png (from https://www.cybelius.fr/?page_id=2813)
+21:48:40	Warning: 	Moved Permanently for https://www.cybelius.fr/?p=2813
+21:48:40	Warning: 	File has moved from https://www.cybelius.fr/?p=2813 to https://www.cybelius.fr/?page_id=2813
+21:48:46	Warning: 	file not stored in cache due to bogus state (incomplete type with OK (200), size 0): https://www.cybelius.fr/index.php?rest_route=%2Foembed%2F1.0%2Fembed&url=https%3A%2F%2Fwww.cybelius.fr%2F%3Fpage_id%3D1974&format=xml
+21:48:48	Error: 	"Not Found" (404) at link https://site4.stellis-vm1.nfrance.net/wp-content/uploads/2021/03/CyFENCE-wall-168x300.png (from https://www.cybelius.fr/?page_id=2815)
+21:48:48	Warning: 	Moved Permanently for https://www.cybelius.fr/?p=2815
+21:48:48	Warning: 	File has moved from https://www.cybelius.fr/?p=2815 to https://www.cybelius.fr/?page_id=2815
+21:48:56	Warning: 	file not stored in cache due to bogus state (incomplete type with OK (200), size 0): https://www.cybelius.fr/index.php?rest_route=%2Foembed%2F1.0%2Fembed&url=https%3A%2F%2Fwww.cybelius.fr%2F%3Fpage_id%3D2477&format=xml
+21:48:59	Error: 	"Not Found" (404) at link https://site4.stellis-vm1.nfrance.net/wp-content/uploads/2021/03/cyfence-keenai-300x97.png (from https://www.cybelius.fr/?page_id=2815)
+21:49:09	Warning: 	file not stored in cache due to bogus state (incomplete type with OK (200), size 0): https://www.cybelius.fr/index.php?rest_route=%2Foembed%2F1.0%2Fembed&url=https%3A%2F%2Fwww.cybelius.fr%2F%3Fpage_id%3D4267&format=xml
+21:49:11	Error: 	"Not Found" (404) at link https://site4.stellis-vm1.nfrance.net/wp-content/uploads/2021/03/Cypres-300x269.png (from https://www.cybelius.fr/?page_id=2817)
+21:49:11	Warning: 	Moved Permanently for https://www.cybelius.fr/?p=2817
+21:49:11	Warning: 	File has moved from https://www.cybelius.fr/?p=2817 to https://www.cybelius.fr/?page_id=2817
+21:49:11	Warning: 	Moved Permanently for https://www.cybelius.fr/?p=2030
+21:49:11	Warning: 	File has moved from https://www.cybelius.fr/?p=2030 to https://www.cybelius.fr/?page_id=2030
+21:49:54	Warning: 	file not stored in cache due to bogus state (incomplete type with OK (200), size 0): https://www.cybelius.fr/index.php?rest_route=%2Foembed%2F1.0%2Fembed&url=https%3A%2F%2Fwww.cybelius.fr%2F%3Fp%3D3298&format=xml
+21:50:02	Warning: 	file not stored in cache due to bogus state (incomplete type with OK (200), size 0): https://www.cybelius.fr/index.php?rest_route=%2Foembed%2F1.0%2Fembed&url=https%3A%2F%2Fwww.cybelius.fr%2F%3Fp%3D3216&format=xml
+21:50:13	Warning: 	file not stored in cache due to bogus state (incomplete type with OK (200), size 0): https://www.cybelius.fr/index.php?rest_route=%2Foembed%2F1.0%2Fembed&url=https%3A%2F%2Fwww.cybelius.fr%2F%3Fp%3D2575&format=xml
+21:50:24	Warning: 	file not stored in cache due to bogus state (incomplete type with OK (200), size 0): https://www.cybelius.fr/index.php?rest_route=%2Foembed%2F1.0%2Fembed&url=https%3A%2F%2Fwww.cybelius.fr%2F%3Fp%3D2517&format=xml
+21:50:45	Warning: 	file not stored in cache due to bogus state (incomplete type with OK (200), size 0): https://www.cybelius.fr/index.php?rest_route=%2Foembed%2F1.0%2Fembed&url=https%3A%2F%2Fwww.cybelius.fr%2F%3Fp%3D1714&format=xml
+21:50:52	Warning: 	file not stored in cache due to bogus state (incomplete type with OK (200), size 0): https://www.cybelius.fr/index.php?rest_route=%2Foembed%2F1.0%2Fembed&url=https%3A%2F%2Fwww.cybelius.fr%2F%3Fp%3D1711&format=xml
+21:51:01	Warning: 	file not stored in cache due to bogus state (incomplete type with OK (200), size 0): https://www.cybelius.fr/index.php?rest_route=%2Foembed%2F1.0%2Fembed&url=https%3A%2F%2Fwww.cybelius.fr%2F%3Fp%3D1490&format=xml
+21:52:15	Warning: 	file not stored in cache due to bogus state (incomplete type with OK (200), size 0): https://www.cybelius.fr/index.php?rest_route=%2Foembed%2F1.0%2Fembed&url=https%3A%2F%2Fwww.cybelius.fr%2F%3Fpage_id%3D2032%26lang%3Den&format=xml
+21:52:49	Warning: 	Moved Permanently for https://www.cybelius.fr/?p=2032
+21:52:49	Warning: 	File has moved from https://www.cybelius.fr/?p=2032 to https://www.cybelius.fr/?page_id=2032
+21:52:53	Warning: 	file not stored in cache due to bogus state (incomplete type with OK (200), size 0): https://www.cybelius.fr/index.php?rest_route=%2Foembed%2F1.0%2Fembed&url=https%3A%2F%2Fwww.cybelius.fr%2F%3Fpage_id%3D2035%26lang%3Den&format=xml
+21:52:53	Error: 	"Not Found" (404) at link https://site4.stellis-vm1.nfrance.net/wp-content/uploads/2021/03/lemag-it-logo-300x68.png (from https://www.cybelius.fr/?page_id=2035)
+21:52:53	Warning: 	Moved Permanently for https://www.cybelius.fr/?p=2035
+21:52:53	Warning: 	File has moved from https://www.cybelius.fr/?p=2035 to https://www.cybelius.fr/?page_id=2035
+21:52:53	Error: 	"Not Found" (404) at link https://site4.stellis-vm1.nfrance.net/wp-content/uploads/2021/03/globalsecuriy-300x109.png (from https://www.cybelius.fr/?page_id=2035)
+21:52:53	Error: 	"Not Found" (404) at link https://site4.stellis-vm1.nfrance.net/wp-content/uploads/2021/03/Capture-decran-2021-03-23-a-14.05.42-300x219.png (from https://www.cybelius.fr/?page_id=2035)
+21:52:53	Error: 	"Not Found" (404) at link https://site4.stellis-vm1.nfrance.net/wp-content/uploads/2021/03/Capture-decran-2021-03-23-a-14.08.41-300x268.png (from https://www.cybelius.fr/?page_id=2035)
+21:52:53	Error: 	"Not Found" (404) at link https://site4.stellis-vm1.nfrance.net/wp-content/uploads/2021/03/Logo_Challenges-300x76.png (from https://www.cybelius.fr/?page_id=2035)
+21:52:53	Error: 	"Not Found" (404) at link https://site4.stellis-vm1.nfrance.net/wp-content/uploads/2021/03/Capture-decran-2021-03-23-a-14.12.02-300x207.png (from https://www.cybelius.fr/?page_id=2035)
+21:52:57	Warning: 	file not stored in cache due to bogus state (incomplete type with OK (200), size 0): https://www.cybelius.fr/index.php?rest_route=%2Foembed%2F1.0%2Fembed&url=https%3A%2F%2Fwww.cybelius.fr%2F%3Fpage_id%3D3944%26lang%3Den&format=xml
+21:52:57	Warning: 	Moved Permanently for https://www.cybelius.fr/?p=3944
+21:52:57	Warning: 	File has moved from https://www.cybelius.fr/?p=3944 to https://www.cybelius.fr/?page_id=3944
+21:53:08	Warning: 	file not stored in cache due to bogus state (incomplete type with OK (200), size 0): https://www.cybelius.fr/index.php?rest_route=%2Foembed%2F1.0%2Fembed&url=https%3A%2F%2Fwww.cybelius.fr%2F%3Fp%3D1209&format=xml
+21:53:20	Warning: 	file not stored in cache due to bogus state (incomplete type with OK (200), size 0): https://www.cybelius.fr/index.php?rest_route=%2Foembed%2F1.0%2Fembed&url=https%3A%2F%2Fwww.cybelius.fr%2F%3Fp%3D1087&format=xml
+21:53:54	Warning: 	file not stored in cache due to bogus state (incomplete type with OK (200), size 0): https://www.cybelius.fr/index.php?rest_route=%2Foembed%2F1.0%2Fembed&url=https%3A%2F%2Fwww.cybelius.fr%2F%3Fp%3D1067&format=xml
+21:54:13	Warning: 	file not stored in cache due to bogus state (incomplete type with OK (200), size 0): https://www.cybelius.fr/index.php?rest_route=%2Foembed%2F1.0%2Fembed&url=https%3A%2F%2Fwww.cybelius.fr%2F%3Fp%3D640&format=xml
+21:54:35	Warning: 	file not stored in cache due to bogus state (incomplete type with OK (200), size 0): https://www.cybelius.fr/index.php?rest_route=%2Foembed%2F1.0%2Fembed&url=https%3A%2F%2Fwww.cybelius.fr%2F%3Fp%3D545&format=xml
+21:54:44	Warning: 	file not stored in cache due to bogus state (incomplete type with OK (200), size 0): https://www.cybelius.fr/index.php?rest_route=%2Foembed%2F1.0%2Fembed&url=https%3A%2F%2Fwww.cybelius.fr%2F%3Fp%3D433&format=xml
+21:55:24	Warning: 	file not stored in cache due to bogus state (incomplete type with OK (200), size 0): https://www.cybelius.fr/index.php?rest_route=%2Foembed%2F1.0%2Fembed&url=https%3A%2F%2Fwww.cybelius.fr%2F%3Fp%3D4375%26lang%3Den&format=xml
+21:55:24	Error: 	"Service Unavailable" (503) at link https://www.cybelius.fr/?p=3075&lang=en (from https://www.cybelius.fr/?p=2636)
+21:55:32	Warning: 	file not stored in cache due to bogus state (incomplete type with OK (200), size 0): https://www.cybelius.fr/index.php?rest_route=%2Foembed%2F1.0%2Fembed&url=https%3A%2F%2Fwww.cybelius.fr%2F%3Fp%3D3175%26lang%3Den&format=xml
+21:55:32	Warning: 	File not parsed, looks like binary: https://www.cybelius.fr/wp-content/themes/hestia-pro/assets/font-awesome/webfonts/fa-brands-400.woff2
+21:55:33	Warning: 	File not parsed, looks like binary: https://www.cybelius.fr/wp-content/themes/hestia-pro/assets/font-awesome/webfonts/fa-regular-400.woff2
+21:55:34	Warning: 	File not parsed, looks like binary: https://www.cybelius.fr/wp-content/themes/hestia-pro/assets/font-awesome/webfonts/fa-solid-900.woff2
+21:55:36	Warning: 	Moved Permanently for https://www.cybelius.fr/?p=3781&lang=en
+21:55:36	Warning: 	File has moved from https://www.cybelius.fr/?p=3781&lang=en to https://www.cybelius.fr/?page_id=3781&lang=en
+21:55:36	Warning: 	Moved Permanently for https://www.cybelius.fr/?p=3721&lang=en
+21:55:36	Warning: 	File has moved from https://www.cybelius.fr/?p=3721&lang=en to https://www.cybelius.fr/?page_id=3721&lang=en
+21:55:36	Warning: 	Moved Permanently for https://www.cybelius.fr/?p=3783&lang=en
+21:55:36	Warning: 	File has moved from https://www.cybelius.fr/?p=3783&lang=en to https://www.cybelius.fr/?page_id=3783&lang=en
+21:55:36	Error: 	"Not Found" (404) at link https://site4.stellis-vm1.nfrance.net/wp-content/uploads/2021/03/sem-300x144.png (from https://www.cybelius.fr/?page_id=3783&lang=en)
+21:55:36	Warning: 	Moved Permanently for https://www.cybelius.fr/?p=3789&lang=en
+21:55:36	Warning: 	File has moved from https://www.cybelius.fr/?p=3789&lang=en to https://www.cybelius.fr/?page_id=3789&lang=en
+21:56:17	Warning: 	file not stored in cache due to bogus state (incomplete type with OK (200), size 0): https://www.cybelius.fr/index.php?rest_route=%2Foembed%2F1.0%2Fembed&url=https%3A%2F%2Fwww.cybelius.fr%2F%3Fpage_id%3D2843%26lang%3Den&format=xml
+21:56:24	Warning: 	file not stored in cache due to bogus state (incomplete type with OK (200), size 0): https://www.cybelius.fr/index.php?rest_route=%2Foembed%2F1.0%2Fembed&url=https%3A%2F%2Fwww.cybelius.fr%2F%3Fpage_id%3D2856%26lang%3Den&format=xml
+21:56:24	Warning: 	Moved Permanently for https://www.cybelius.fr/?p=3793&lang=en
+21:56:24	Warning: 	File has moved from https://www.cybelius.fr/?p=3793&lang=en to https://www.cybelius.fr/?page_id=3793&lang=en
+21:56:24	Error: 	"Not Found" (404) at link https://site4.stellis-vm1.nfrance.net/wp-content/uploads/2021/03/schema-eval-EN.png (from https://www.cybelius.fr/?page_id=3797&lang=en)
+21:56:24	Warning: 	Moved Permanently for https://www.cybelius.fr/?p=3797&lang=en
+21:56:24	Warning: 	File has moved from https://www.cybelius.fr/?p=3797&lang=en to https://www.cybelius.fr/?page_id=3797&lang=en
+21:56:30	Warning: 	file not stored in cache due to bogus state (incomplete type with OK (200), size 0): https://www.cybelius.fr/index.php?rest_route=%2Foembed%2F1.0%2Fembed&url=https%3A%2F%2Fwww.cybelius.fr%2F%3Fpage_id%3D4302%26lang%3Den&format=xml
+21:56:40	Warning: 	file not stored in cache due to bogus state (incomplete type with OK (200), size 0): https://www.cybelius.fr/index.php?rest_route=%2Foembed%2F1.0%2Fembed&url=https%3A%2F%2Fwww.cybelius.fr%2F%3Fpage_id%3D4308%26lang%3Den&format=xml
+21:56:41	Warning: 	Moved Permanently for https://www.cybelius.fr/?p=3800&lang=en
+21:56:41	Warning: 	File has moved from https://www.cybelius.fr/?p=3800&lang=en to https://www.cybelius.fr/?page_id=3800&lang=en
+21:56:46	Warning: 	file not stored in cache due to bogus state (incomplete type with OK (200), size 0): https://www.cybelius.fr/index.php?rest_route=%2Foembed%2F1.0%2Fembed&url=https%3A%2F%2Fwww.cybelius.fr%2F%3Fpage_id%3D3831%26lang%3Den&format=xml
+21:57:02	Warning: 	file not stored in cache due to bogus state (incomplete type with OK (200), size 0): https://www.cybelius.fr/index.php?rest_route=%2Foembed%2F1.0%2Fembed&url=https%3A%2F%2Fwww.cybelius.fr%2F%3Fpage_id%3D2756%26lang%3Den&format=xml
+21:57:03	Warning: 	Moved Permanently for https://www.cybelius.fr/?p=3803&lang=en
+21:57:03	Warning: 	File has moved from https://www.cybelius.fr/?p=3803&lang=en to https://www.cybelius.fr/?page_id=3803&lang=en
+21:57:03	Warning: 	Moved Permanently for https://www.cybelius.fr/?p=2736&lang=en
+21:57:03	Warning: 	File has moved from https://www.cybelius.fr/?p=2736&lang=en to https://www.cybelius.fr/?page_id=2736&lang=en
+21:57:39	Error: 	"Service Unavailable" (503) at link https://www.cybelius.fr/index.php?rest_route=%2Foembed%2F1.0%2Fembed&url=https%3A%2F%2Fwww.cybelius.fr%2F%3Fpage_id%3D2736%26lang%3Den (from https://www.cybelius.fr/?page_id=2736&lang=en)
+21:58:30	Warning: 	file not stored in cache due to bogus state (incomplete type with OK (200), size 0): https://www.cybelius.fr/index.php?rest_route=%2Foembed%2F1.0%2Fembed&url=https%3A%2F%2Fwww.cybelius.fr%2F%3Fp%3D3859%26lang%3Den&format=xml
+21:58:46	Warning: 	file not stored in cache due to bogus state (incomplete type with OK (200), size 0): https://www.cybelius.fr/index.php?rest_route=%2Foembed%2F1.0%2Fembed&url=https%3A%2F%2Fwww.cybelius.fr%2F%3Fp%3D3857%26lang%3Den&format=xml
+21:59:02	Warning: 	file not stored in cache due to bogus state (incomplete type with OK (200), size 0): https://www.cybelius.fr/index.php?rest_route=%2Foembed%2F1.0%2Fembed&url=https%3A%2F%2Fwww.cybelius.fr%2F%3Fp%3D3854%26lang%3Den&format=xml
+21:59:17	Warning: 	file not stored in cache due to bogus state (incomplete type with OK (200), size 0): https://www.cybelius.fr/index.php?rest_route=%2Foembed%2F1.0%2Fembed&url=https%3A%2F%2Fwww.cybelius.fr%2F%3Fp%3D3852%26lang%3Den&format=xml
+21:59:31	Warning: 	file not stored in cache due to bogus state (incomplete type with OK (200), size 0): https://www.cybelius.fr/index.php?rest_route=%2Foembed%2F1.0%2Fembed&url=https%3A%2F%2Fwww.cybelius.fr%2F%3Fp%3D3298%26lang%3Den&format=xml
+21:59:47	Warning: 	file not stored in cache due to bogus state (incomplete type with OK (200), size 0): https://www.cybelius.fr/index.php?rest_route=%2Foembed%2F1.0%2Fembed&url=https%3A%2F%2Fwww.cybelius.fr%2F%3Fp%3D3171%26lang%3Den&format=xml
+22:00:03	Warning: 	file not stored in cache due to bogus state (incomplete type with OK (200), size 0): https://www.cybelius.fr/index.php?rest_route=%2Foembed%2F1.0%2Fembed&url=https%3A%2F%2Fwww.cybelius.fr%2F%3Fp%3D2575%26lang%3Den&format=xml
+22:01:10	Error: 	"Not Found" (404) at link https://site4.stellis-vm1.nfrance.net/wp-content/uploads/2021/03/pexels-lukas-669610-300x199.jpg (from https://www.cybelius.fr/?page_id=793)
+22:01:18	Warning: 	Moved Permanently for https://www.cybelius.fr/?p=793
+22:01:18	Warning: 	File has moved from https://www.cybelius.fr/?p=793 to https://www.cybelius.fr/?page_id=793
+22:01:51	Error: 	"Not Found" (404) at link https://site4.stellis-vm1.nfrance.net/wp-content/uploads/2021/03/CyFENCE_image-300x291.jpg (from https://www.cybelius.fr/?page_id=1936)
+22:01:56	Error: 	"Service Unavailable" (503) at link https://www.cybelius.fr/?p=1936 (from https://www.cybelius.fr/?page_id=1936)
+22:02:24	Error: 	"Not Found" (404) at link https://site4.stellis-vm1.nfrance.net/wp-content/uploads/2021/03/Capture-decran-2021-03-24-a-10.01.42-300x174.png (from https://www.cybelius.fr/?page_id=1974)
+22:02:24	Warning: 	Moved Permanently for https://www.cybelius.fr/?p=1974
+22:02:24	Warning: 	File has moved from https://www.cybelius.fr/?p=1974 to https://www.cybelius.fr/?page_id=1974
+22:02:24	Error: 	"Service Unavailable" (503) at link https://www.cybelius.fr/index.php?rest_route=%2Foembed%2F1.0%2Fembed&url=https%3A%2F%2Fwww.cybelius.fr%2F%3Fpage_id%3D1974 (from https://www.cybelius.fr/?page_id=1974)
+22:02:24	Warning: 	Moved Permanently for https://www.cybelius.fr/?p=2477
+22:02:24	Warning: 	File has moved from https://www.cybelius.fr/?p=2477 to https://www.cybelius.fr/?page_id=2477
+22:02:24	Error: 	"Not Found" (404) at link https://site4.stellis-vm1.nfrance.net/wp-content/uploads/2021/03/schema-2020-modif-1-273x300.jpg (from https://www.cybelius.fr/?page_id=2477)
+22:02:38	Warning: 	file not stored in cache due to bogus state (incomplete type with OK (200), size 0): https://www.cybelius.fr/index.php?rest_route=%2Foembed%2F1.0%2Fembed&url=https%3A%2F%2Fwww.cybelius.fr%2F%3Fpage_id%3D4267%26lang%3Den&format=xml
+22:02:38	Warning: 	Moved Permanently for https://www.cybelius.fr/?p=4267
+22:02:38	Warning: 	File has moved from https://www.cybelius.fr/?p=4267 to https://www.cybelius.fr/?page_id=4267
+22:02:48	Warning: 	file not stored in cache due to bogus state (incomplete type with OK (200), size 0): https://www.cybelius.fr/index.php?rest_route=%2Foembed%2F1.0%2Fembed&url=https%3A%2F%2Fwww.cybelius.fr%2F%3Fp%3D1273&format=xml
+22:04:35	Warning: 	file not stored in cache due to bogus state (incomplete type with OK (200), size 0): https://www.cybelius.fr/index.php?rest_route=%2Foembed%2F1.0%2Fembed&url=https%3A%2F%2Fwww.cybelius.fr%2F%3Fp%3D353&format=xml
+22:04:35	Error: 	"Not Found" (404) at link https://www.cybelius.fr/nos-solutions/cyfence-as-a-service/cyfence/ (from https://www.cybelius.fr/?p=2575)
+22:04:35	Error: 	"Not Found" (404) at link https://www.cybelius.fr/nos-solutions/cyfence-as-a-service/keenai/ (from https://www.cybelius.fr/?p=2575)
+22:04:35	Error: 	"Service Unavailable" (503) at link https://www.cybelius.fr/index.php?rest_route=/wp/v2/categories/4 (from https://www.cybelius.fr/?cat=4)
+22:04:42	Warning: 	file not stored in cache due to bogus state (incomplete type with OK (200), size 0): https://www.cybelius.fr/index.php?rest_route=%2Foembed%2F1.0%2Fembed&url=https%3A%2F%2Fwww.cybelius.fr%2F%3Fp%3D378&format=xml
+22:05:24	Warning: 	file not stored in cache due to bogus state (incomplete type with OK (200), size 0): https://www.cybelius.fr/index.php?rest_route=%2Foembed%2F1.0%2Fembed&url=https%3A%2F%2Fwww.cybelius.fr%2F%3Fp%3D374&format=xml
+22:05:31	Warning: 	file not stored in cache due to bogus state (incomplete type with OK (200), size 0): https://www.cybelius.fr/index.php?rest_route=%2Foembed%2F1.0%2Fembed&url=https%3A%2F%2Fwww.cybelius.fr%2F%3Fp%3D362&format=xml
+22:06:09	Warning: 	file not stored in cache due to bogus state (incomplete type with OK (200), size 0): https://www.cybelius.fr/index.php?rest_route=%2Foembed%2F1.0%2Fembed&url=https%3A%2F%2Fwww.cybelius.fr%2F%3Fp%3D357&format=xml
+22:06:53	Warning: 	file not stored in cache due to bogus state (incomplete type with OK (200), size 0): https://www.cybelius.fr/index.php?rest_route=%2Foembed%2F1.0%2Fembed&url=https%3A%2F%2Fwww.cybelius.fr%2F%3Fp%3D349&format=xml
+22:07:33	Warning: 	file not stored in cache due to bogus state (incomplete type with OK (200), size 0): https://www.cybelius.fr/index.php?rest_route=%2Foembed%2F1.0%2Fembed&url=https%3A%2F%2Fwww.cybelius.fr%2F%3Fp%3D345&format=xml
+22:07:40	Warning: 	file not stored in cache due to bogus state (incomplete type with OK (200), size 0): https://www.cybelius.fr/index.php?rest_route=%2Foembed%2F1.0%2Fembed&url=https%3A%2F%2Fwww.cybelius.fr%2F%3Fp%3D332&format=xml
+22:08:21	Warning: 	file not stored in cache due to bogus state (incomplete type with OK (200), size 0): https://www.cybelius.fr/index.php?rest_route=%2Foembed%2F1.0%2Fembed&url=https%3A%2F%2Fwww.cybelius.fr%2F%3Fp%3D339&format=xml
+22:08:27	Warning: 	file not stored in cache due to bogus state (incomplete type with OK (200), size 0): https://www.cybelius.fr/index.php?rest_route=%2Foembed%2F1.0%2Fembed&url=https%3A%2F%2Fwww.cybelius.fr%2F%3Fp%3D1714%26lang%3Den&format=xml
+22:08:31	Warning: 	file not stored in cache due to bogus state (incomplete type with OK (200), size 0): https://www.cybelius.fr/index.php?rest_route=%2Foembed%2F1.0%2Fembed&url=https%3A%2F%2Fwww.cybelius.fr%2F%3Fp%3D1711%26lang%3Den&format=xml
+22:08:35	Warning: 	file not stored in cache due to bogus state (incomplete type with OK (200), size 0): https://www.cybelius.fr/index.php?rest_route=%2Foembed%2F1.0%2Fembed&url=https%3A%2F%2Fwww.cybelius.fr%2F%3Fp%3D1490%26lang%3Den&format=xml
+22:08:49	Warning: 	file not stored in cache due to bogus state (incomplete type with OK (200), size 0): https://www.cybelius.fr/index.php?rest_route=%2Foembed%2F1.0%2Fembed&url=https%3A%2F%2Fwww.cybelius.fr%2F%3Fp%3D648&format=xml
+22:08:57	Warning: 	file not stored in cache due to bogus state (incomplete type with OK (200), size 0): https://www.cybelius.fr/index.php?rest_route=%2Foembed%2F1.0%2Fembed&url=https%3A%2F%2Fwww.cybelius.fr%2F%3Fp%3D106&format=xml
+22:08:57	Warning: 	Moved Permanently for https://www.cybelius.fr/?page_id=177&page=2
+22:08:57	Warning: 	File has moved from https://www.cybelius.fr/?page_id=177&page=2 to https://www.cybelius.fr/?p=4375&page_id=177
+22:09:03	Warning: 	file not stored in cache due to bogus state (incomplete type with OK (200), size 0): https://www.cybelius.fr/index.php?rest_route=%2Foembed%2F1.0%2Fembed&url=https%3A%2F%2Fwww.cybelius.fr%2F%3Fp%3D1188&format=xml
+22:09:13	Warning: 	file not stored in cache due to bogus state (incomplete type with OK (200), size 0): https://www.cybelius.fr/index.php?rest_route=%2Foembed%2F1.0%2Fembed&url=https%3A%2F%2Fwww.cybelius.fr%2F%3Fp%3D1124&format=xml
+22:09:22	Warning: 	file not stored in cache due to bogus state (incomplete type with OK (200), size 0): https://www.cybelius.fr/index.php?rest_route=%2Foembed%2F1.0%2Fembed&url=https%3A%2F%2Fwww.cybelius.fr%2F%3Fp%3D1002&format=xml
+22:09:29	Warning: 	file not stored in cache due to bogus state (incomplete type with OK (200), size 0): https://www.cybelius.fr/index.php?rest_route=%2Foembed%2F1.0%2Fembed&url=https%3A%2F%2Fwww.cybelius.fr%2F%3Fp%3D976&format=xml
+22:10:02	Warning: 	Moved Permanently for https://www.cybelius.fr/?page_id=177&page=4
+22:10:02	Warning: 	File has moved from https://www.cybelius.fr/?page_id=177&page=4 to https://www.cybelius.fr/?p=4375&page_id=177
+22:10:10	Warning: 	file not stored in cache due to bogus state (incomplete type with OK (200), size 0): https://www.cybelius.fr/index.php?rest_route=%2Foembed%2F1.0%2Fembed&url=https%3A%2F%2Fwww.cybelius.fr%2F%3Fp%3D370&format=xml
+22:10:17	Warning: 	file not stored in cache due to bogus state (incomplete type with OK (200), size 0): https://www.cybelius.fr/index.php?rest_route=%2Foembed%2F1.0%2Fembed&url=https%3A%2F%2Fwww.cybelius.fr%2F%3Fp%3D366&format=xml
+22:10:40	Warning: 	file not stored in cache due to bogus state (incomplete type with OK (200), size 0): https://www.cybelius.fr/index.php?rest_route=%2Foembed%2F1.0%2Fembed&url=https%3A%2F%2Fwww.cybelius.fr%2F%3Fp%3D324&format=xml
+22:10:41	Warning: 	Moved Permanently for https://www.cybelius.fr/?p=2032&lang=en
+22:10:41	Warning: 	File has moved from https://www.cybelius.fr/?p=2032&lang=en to https://www.cybelius.fr/?page_id=2032&lang=en
+22:10:41	Warning: 	Moved Permanently for https://www.cybelius.fr/?p=2035&lang=en
+22:10:41	Warning: 	File has moved from https://www.cybelius.fr/?p=2035&lang=en to https://www.cybelius.fr/?page_id=2035&lang=en
+22:10:41	Warning: 	Moved Permanently for https://www.cybelius.fr/?p=3944&lang=en
+22:10:41	Warning: 	File has moved from https://www.cybelius.fr/?p=3944&lang=en to https://www.cybelius.fr/?page_id=3944&lang=en
+22:10:44	Warning: 	file not stored in cache due to bogus state (incomplete type with OK (200), size 0): https://www.cybelius.fr/index.php?rest_route=%2Foembed%2F1.0%2Fembed&url=https%3A%2F%2Fwww.cybelius.fr%2F%3Fp%3D1209%26lang%3Den&format=xml
+22:10:44	Error: 	"Not Found" (404) at link https://www.cybelius.fr/methode-danalyse-de-risques/ (from https://www.cybelius.fr/?p=1209)
+22:10:44	Error: 	"Not Found" (404) at link https://www.cybelius.fr/2017/11/30/comment-investir-votre-premier-euro-en-cybersecurite-industrielle/ (from https://www.cybelius.fr/?p=1209)
+22:11:11	Warning: 	file not stored in cache due to bogus state (incomplete type with OK (200), size 0): https://www.cybelius.fr/index.php?rest_route=%2Foembed%2F1.0%2Fembed&url=https%3A%2F%2Fwww.cybelius.fr%2F%3Fp%3D1087%26lang%3Den&format=xml
+22:11:33	Error: 	"Not Found" (404) at link https://www.cybelius.fr/cypres/ (from https://www.cybelius.fr/?p=1067)
+22:11:33	Error: 	"Not Found" (404) at link https://www.cybelius.fr/2017/10/26/equipes-it-et-ot-le-nouveau-duo-de-lindustrie/ (from https://www.cybelius.fr/?p=1067)
+22:11:52	Warning: 	file not stored in cache due to bogus state (incomplete type with OK (200), size 0): https://www.cybelius.fr/index.php?rest_route=%2Foembed%2F1.0%2Fembed&url=https%3A%2F%2Fwww.cybelius.fr%2F%3Fp%3D640%26lang%3Den&format=xml
+22:12:03	Warning: 	file not stored in cache due to bogus state (incomplete type with OK (200), size 0): https://www.cybelius.fr/index.php?rest_route=%2Foembed%2F1.0%2Fembed&url=https%3A%2F%2Fwww.cybelius.fr%2F%3Fp%3D545%26lang%3Den&format=xml
+22:12:05	Error: 	"Service Unavailable" (503) at link https://www.cybelius.fr/?tag=industrie-4-0 (from https://www.cybelius.fr/?p=545)
+22:12:17	Warning: 	file not stored in cache due to bogus state (incomplete type with OK (200), size 0): https://www.cybelius.fr/index.php?rest_route=%2Foembed%2F1.0%2Fembed&url=https%3A%2F%2Fwww.cybelius.fr%2F%3Fp%3D433%26lang%3Den&format=xml
+22:12:41	Warning: 	file not stored in cache due to bogus state (incomplete type with OK (200), size 0): https://www.cybelius.fr/index.php?rest_route=%2Foembed%2F1.0%2Fembed&url=https%3A%2F%2Fwww.cybelius.fr%2F%3Fp%3D236&format=xml
+22:12:41	Warning: 	Moved Permanently for https://www.cybelius.fr/?page_id=3781%26lang=en
+22:12:41	Warning: 	File has moved from https://www.cybelius.fr/?page_id=3781%26lang=en to https://www.cybelius.fr/?page_id=3781%26lang%3Den
+22:12:46	Warning: 	Moved Permanently for https://www.cybelius.fr/?page_id=3721%26lang=en
+22:12:46	Warning: 	File has moved from https://www.cybelius.fr/?page_id=3721%26lang=en to https://www.cybelius.fr/?page_id=3721%26lang%3Den
+22:12:51	Warning: 	Moved Permanently for https://www.cybelius.fr/?page_id=3783%26lang=en
+22:12:51	Warning: 	File has moved from https://www.cybelius.fr/?page_id=3783%26lang=en to https://www.cybelius.fr/?page_id=3783%26lang%3Den
+22:12:56	Warning: 	Moved Permanently for https://www.cybelius.fr/?page_id=3789%26lang=en
+22:12:56	Warning: 	File has moved from https://www.cybelius.fr/?page_id=3789%26lang=en to https://www.cybelius.fr/?page_id=3789%26lang%3Den
+22:13:02	Warning: 	file not stored in cache due to bogus state (incomplete type with OK (200), size 0): https://www.cybelius.fr/index.php?rest_route=%2Foembed%2F1.0%2Fembed&url=https%3A%2F%2Fwww.cybelius.fr%2F%3Fpage_id%3D2843&format=xml
+22:13:02	Error: 	"Not Found" (404) at link https://site4.stellis-vm1.nfrance.net/wp-content/uploads/2021/03/schema-eval-EN-300x100.png (from https://www.cybelius.fr/?page_id=2843&lang=en)
+22:13:02	Warning: 	Moved Permanently for https://www.cybelius.fr/?p=2843&lang=en
+22:13:02	Warning: 	File has moved from https://www.cybelius.fr/?p=2843&lang=en to https://www.cybelius.fr/?page_id=2843&lang=en
+22:13:03	Warning: 	Note: due to www.cybelius.fr remote robots.txt rules, links beginning with these path will be forbidden: /wp-admin/ (see in the options to disable this)
+22:13:03	Error: 	"Not Found" (404) at link www.cybelius.fr/en/np-view/ (from https://www.cybelius.fr/?page_id=2843&lang=en)
+22:13:03	Error: 	"Not Found" (404) at link www.cybelius.fr/en/method-apero/ (from https://www.cybelius.fr/?page_id=2843&lang=en)
+22:13:07	Warning: 	file not stored in cache due to bogus state (incomplete type with OK (200), size 0): https://www.cybelius.fr/index.php?rest_route=%2Foembed%2F1.0%2Fembed&url=https%3A%2F%2Fwww.cybelius.fr%2F%3Fpage_id%3D2856&format=xml
+22:13:07	Warning: 	Moved Permanently for https://www.cybelius.fr/?p=2856&lang=en
+22:13:07	Warning: 	File has moved from https://www.cybelius.fr/?p=2856&lang=en to https://www.cybelius.fr/?page_id=2856&lang=en
+22:13:07	Warning: 	Moved Permanently for https://www.cybelius.fr/?page_id=3793%26lang=en
+22:13:07	Warning: 	File has moved from https://www.cybelius.fr/?page_id=3793%26lang=en to https://www.cybelius.fr/?page_id=3793%26lang%3Den
+22:13:07	Error: 	"Service Unavailable" (503) at link https://www.cybelius.fr/?page_id=3797%26lang=en (from https://www.cybelius.fr/?p=3797&lang=en)
+22:13:07	Warning: 	Moved Permanently for https://www.cybelius.fr/?p=4302&lang=en
+22:13:07	Warning: 	File has moved from https://www.cybelius.fr/?p=4302&lang=en to https://www.cybelius.fr/?page_id=4302&lang=en
+22:13:07	Warning: 	Moved Permanently for https://www.cybelius.fr/?p=4308&lang=en
+22:13:07	Warning: 	File has moved from https://www.cybelius.fr/?p=4308&lang=en to https://www.cybelius.fr/?page_id=4308&lang=en
+22:13:12	Warning: 	Moved Permanently for https://www.cybelius.fr/?page_id=3800%26lang=en
+22:13:12	Warning: 	File has moved from https://www.cybelius.fr/?page_id=3800%26lang=en to https://www.cybelius.fr/?page_id=3800%26lang%3Den
+22:13:17	Error: 	"Service Unavailable" (503) at link https://www.cybelius.fr/index.php?rest_route=/wp/v2/pages/3831 (from https://www.cybelius.fr/?page_id=3831&lang=en)
+22:13:17	Warning: 	Moved Permanently for https://www.cybelius.fr/?p=3831&lang=en
+22:13:17	Warning: 	File has moved from https://www.cybelius.fr/?p=3831&lang=en to https://www.cybelius.fr/?page_id=3831&lang=en
+22:13:40	Warning: 	Moved Permanently for https://www.cybelius.fr/?p=2756&lang=en
+22:13:40	Warning: 	File has moved from https://www.cybelius.fr/?p=2756&lang=en to https://www.cybelius.fr/?page_id=2756&lang=en
+22:13:40	Warning: 	Moved Permanently for https://www.cybelius.fr/?page_id=3803%26lang=en
+22:13:40	Warning: 	File has moved from https://www.cybelius.fr/?page_id=3803%26lang=en to https://www.cybelius.fr/?page_id=3803%26lang%3Den
+22:13:40	Warning: 	Moved Permanently for https://www.cybelius.fr/?page_id=2736%26lang=en
+22:13:40	Warning: 	File has moved from https://www.cybelius.fr/?page_id=2736%26lang=en to https://www.cybelius.fr/?page_id=2736%26lang%3Den
+22:13:52	Warning: 	file not stored in cache due to bogus state (incomplete type with OK (200), size 0): https://www.cybelius.fr/index.php?rest_route=%2Foembed%2F1.0%2Fembed&url=https%3A%2F%2Fwww.cybelius.fr%2F%3Fp%3D290%26lang%3Den&format=xml
+22:13:59	Warning: 	file not stored in cache due to bogus state (incomplete type with OK (200), size 0): https://www.cybelius.fr/index.php?rest_route=%2Foembed%2F1.0%2Fembed&url=https%3A%2F%2Fwww.cybelius.fr%2F%3Fp%3D106%26lang%3Den&format=xml
+22:13:59	Error: 	"Not Found" (404) at link www.cybelius.fr/en/2017/10/26/equipes-it-et-ot-le-nouveau-duo-de-lindustrie/ (from https://www.cybelius.fr/?p=3859&lang=en)
+22:13:59	Warning: 	Moved Permanently for https://www.cybelius.fr/?page_id=3861&lang=en&page=2
+22:13:59	Warning: 	File has moved from https://www.cybelius.fr/?page_id=3861&lang=en&page=2 to https://www.cybelius.fr/?p=4375&lang=en&page_id=3861
+22:14:02	Warning: 	file not stored in cache due to bogus state (incomplete type with OK (200), size 0): https://www.cybelius.fr/index.php?rest_route=%2Foembed%2F1.0%2Fembed&url=https%3A%2F%2Fwww.cybelius.fr%2F%3Fp%3D1273%26lang%3Den&format=xml
+22:14:06	Warning: 	file not stored in cache due to bogus state (incomplete type with OK (200), size 0): https://www.cybelius.fr/index.php?rest_route=%2Foembed%2F1.0%2Fembed&url=https%3A%2F%2Fwww.cybelius.fr%2F%3Fp%3D1188%26lang%3Den&format=xml
+22:14:10	Warning: 	file not stored in cache due to bogus state (incomplete type with OK (200), size 0): https://www.cybelius.fr/index.php?rest_route=%2Foembed%2F1.0%2Fembed&url=https%3A%2F%2Fwww.cybelius.fr%2F%3Fp%3D1124%26lang%3Den&format=xml
+22:14:14	Warning: 	file not stored in cache due to bogus state (incomplete type with OK (200), size 0): https://www.cybelius.fr/index.php?rest_route=%2Foembed%2F1.0%2Fembed&url=https%3A%2F%2Fwww.cybelius.fr%2F%3Fp%3D1002%26lang%3Den&format=xml
+22:14:17	Warning: 	file not stored in cache due to bogus state (incomplete type with OK (200), size 0): https://www.cybelius.fr/index.php?rest_route=%2Foembed%2F1.0%2Fembed&url=https%3A%2F%2Fwww.cybelius.fr%2F%3Fp%3D976%26lang%3Den&format=xml
+22:14:17	Warning: 	Moved Permanently for https://www.cybelius.fr/?page_id=3861&lang=en&page=5
+22:14:17	Warning: 	File has moved from https://www.cybelius.fr/?page_id=3861&lang=en&page=5 to https://www.cybelius.fr/?p=4375&lang=en&page_id=3861
+22:14:54	Warning: 	file not stored in cache due to bogus state (incomplete type with OK (200), size 0): https://www.cybelius.fr/index.php?rest_route=%2Foembed%2F1.0%2Fembed&url=https%3A%2F%2Fwww.cybelius.fr%2F%3Fp%3D332%26lang%3Den&format=xml
+22:14:57	Warning: 	file not stored in cache due to bogus state (incomplete type with OK (200), size 0): https://www.cybelius.fr/index.php?rest_route=%2Foembed%2F1.0%2Fembed&url=https%3A%2F%2Fwww.cybelius.fr%2F%3Fp%3D339%26lang%3Den&format=xml
+22:14:57	Warning: 	Moved Permanently for https://www.cybelius.fr/?p=4267&lang=en
+22:14:57	Warning: 	File has moved from https://www.cybelius.fr/?p=4267&lang=en to https://www.cybelius.fr/?page_id=4267&lang=en
+22:15:04	Warning: 	file not stored in cache due to bogus state (incomplete type with OK (200), size 0): https://www.cybelius.fr/index.php?rest_route=%2Foembed%2F1.0%2Fembed&url=https%3A%2F%2Fwww.cybelius.fr%2F%3Fp%3D571&format=xml
+22:15:12	Warning: 	file not stored in cache due to bogus state (incomplete type with OK (200), size 0): https://www.cybelius.fr/index.php?rest_route=%2Foembed%2F1.0%2Fembed&url=https%3A%2F%2Fwww.cybelius.fr%2F%3Fp%3D477&format=xml
+22:15:19	Warning: 	file not stored in cache due to bogus state (incomplete type with OK (200), size 0): https://www.cybelius.fr/index.php?rest_route=%2Foembed%2F1.0%2Fembed&url=https%3A%2F%2Fwww.cybelius.fr%2F%3Fp%3D383&format=xml
+22:16:20	Warning: 	file not stored in cache due to bogus state (incomplete type with OK (200), size 0): https://www.cybelius.fr/index.php?rest_route=%2Foembed%2F1.0%2Fembed&url=https%3A%2F%2Fwww.cybelius.fr%2F%3Fp%3D353%26lang%3Den&format=xml
+22:16:20	Error: 	"Not Found" (404) at link www.cypres-security.fr/wp-content/uploads/2017/03/drapeaux-france-allemagne.jpg (from https://www.cybelius.fr/?p=353)
+22:16:26	Warning: 	file not stored in cache due to bogus state (incomplete type with OK (200), size 0): https://www.cybelius.fr/index.php?rest_route=%2Foembed%2F1.0%2Fembed&url=https%3A%2F%2Fwww.cybelius.fr%2F%3Fp%3D378%26lang%3Den&format=xml
+22:16:26	Error: 	"Not Found" (404) at link www.cypres-security.fr/wp-content/uploads/2017/09/Itris.jpg (from https://www.cybelius.fr/?p=378)
+22:16:26	Error: 	"Not Found" (404) at link www.cypres-security.fr/wp-content/uploads/2017/09/baie2CyFENCE.jpg (from https://www.cybelius.fr/?p=378)
+22:16:26	Error: 	"Not Found" (404) at link www.cypres-security.fr/wp-content/uploads/2017/09/maison-de-la-recherche-paris.jpg (from https://www.cybelius.fr/?p=378)
+22:16:36	Warning: 	file not stored in cache due to bogus state (incomplete type with OK (200), size 0): https://www.cybelius.fr/index.php?rest_route=%2Foembed%2F1.0%2Fembed&url=https%3A%2F%2Fwww.cybelius.fr%2F%3Fp%3D374%26lang%3Den&format=xml
+22:16:36	Error: 	"Not Found" (404) at link www.cypres-security.fr/wp-content/uploads/2017/09/exera.jpg (from https://www.cybelius.fr/?p=374)
+22:16:43	Warning: 	file not stored in cache due to bogus state (incomplete type with OK (200), size 0): https://www.cybelius.fr/index.php?rest_route=%2Foembed%2F1.0%2Fembed&url=https%3A%2F%2Fwww.cybelius.fr%2F%3Fp%3D362%26lang%3Den&format=xml
+22:16:43	Error: 	"Not Found" (404) at link www.cypres-security.fr/wp-content/uploads/2017/04/BANNIERE2L.jpg (from https://www.cybelius.fr/?p=362)
+22:16:57	Warning: 	file not stored in cache due to bogus state (incomplete type with OK (200), size 0): https://www.cybelius.fr/index.php?rest_route=%2Foembed%2F1.0%2Fembed&url=https%3A%2F%2Fwww.cybelius.fr%2F%3Fp%3D357%26lang%3Den&format=xml
+22:16:57	Error: 	"Not Found" (404) at link www.cypres-security.fr/wp-content/uploads/2017/03/1715137707-IND2017-LOGOS3-1476204398.jpg (from https://www.cybelius.fr/?p=357)
+22:16:57	Error: 	"Not Found" (404) at link www.cypres-security.fr/wp-content/uploads/2017/03/FPCi-copie.jpg (from https://www.cybelius.fr/?p=357)
+22:16:57	Error: 	"Not Found" (404) at link www.cypres-security.fr/wp-content/uploads/2017/03/INDUSTRIE-Banniere.jpg (from https://www.cybelius.fr/?p=357)
+22:17:07	Warning: 	file not stored in cache due to bogus state (incomplete type with OK (200), size 0): https://www.cybelius.fr/index.php?rest_route=%2Foembed%2F1.0%2Fembed&url=https%3A%2F%2Fwww.cybelius.fr%2F%3Fp%3D349%26lang%3Den&format=xml
+22:17:07	Error: 	"Not Found" (404) at link www.cypres-security.fr/wp-content/uploads/2017/03/P2060133L.jpg (from https://www.cybelius.fr/?p=349)
+22:17:07	Error: 	"Not Found" (404) at link www.cypres-security.fr/wp-content/uploads/2017/03/Don_upson.png (from https://www.cybelius.fr/?p=349)
+22:17:18	Warning: 	file not stored in cache due to bogus state (incomplete type with OK (200), size 0): https://www.cybelius.fr/index.php?rest_route=%2Foembed%2F1.0%2Fembed&url=https%3A%2F%2Fwww.cybelius.fr%2F%3Fp%3D345%26lang%3Den&format=xml
+22:17:18	Error: 	"Not Found" (404) at link www.cypres-security.fr/wp-content/uploads/2017/02/P1240021L.jpg (from https://www.cybelius.fr/?p=345)
+22:17:25	Error: 	"Not Found" (404) at link www.cypres-security.fr/wp-content/uploads/2017/01/CxPAI73XAAYtfDd.png (from https://www.cybelius.fr/?p=332)
+22:17:25	Error: 	"Not Found" (404) at link www.cypres-security.fr/wp-content/uploads/2017/01/PLATEFRORME.jpg (from https://www.cybelius.fr/?p=332)
+22:17:43	Error: 	"Not Found" (404) at link www.cypres-security.fr/wp-content/uploads/2016/11/uksecurity.png (from https://www.cybelius.fr/?p=339)
+22:17:43	Error: 	"Not Found" (404) at link www.cypres-security.fr/wp-content/uploads/2016/11/DHR_3828-2.jpg (from https://www.cybelius.fr/?p=339)
+22:17:54	Error: 	"Service Unavailable" (503) at link https://www.cybelius.fr/?feed=rss2&tag=authentification (from https://www.cybelius.fr/?tag=authentification)
+22:17:58	Warning: 	file not stored in cache due to bogus state (incomplete type with OK (200), size 0): https://www.cybelius.fr/index.php?rest_route=%2Foembed%2F1.0%2Fembed&url=https%3A%2F%2Fwww.cybelius.fr%2F%3Fp%3D648%26lang%3Den&format=xml
+22:18:02	Warning: 	file not stored in cache due to bogus state (incomplete type with OK (200), size 0): https://www.cybelius.fr/index.php?rest_route=%2Foembed%2F1.0%2Fembed&url=https%3A%2F%2Fwww.cybelius.fr%2F%3Fp%3D290&format=xml
+22:18:59	Warning: 	Moved Permanently for https://www.cybelius.fr/?page_id=177&page=3
+22:18:59	Warning: 	File has moved from https://www.cybelius.fr/?page_id=177&page=3 to https://www.cybelius.fr/?p=4375&page_id=177
+22:19:02	Warning: 	file not stored in cache due to bogus state (incomplete type with OK (200), size 0): https://www.cybelius.fr/index.php?rest_route=%2Foembed%2F1.0%2Fembed&url=https%3A%2F%2Fwww.cybelius.fr%2F%3Fp%3D370%26lang%3Den&format=xml
+22:19:02	Error: 	"Not Found" (404) at link www.cypres-security.fr/wp-content/uploads/2017/07/wolfcreek.jpg (from https://www.cybelius.fr/?p=370)
+22:19:10	Warning: 	file not stored in cache due to bogus state (incomplete type with OK (200), size 0): https://www.cybelius.fr/index.php?rest_route=%2Foembed%2F1.0%2Fembed&url=https%3A%2F%2Fwww.cybelius.fr%2F%3Fp%3D366%26lang%3Den&format=xml
+22:19:10	Error: 	"Not Found" (404) at link www.cypres-security.fr/wp-content/uploads/2017/07/supermarché.jpg (from https://www.cybelius.fr/?p=366)
+22:19:10	Error: 	"Not Found" (404) at link www.cypres-security.fr/wp-content/uploads/2017/07/écran.jpg (from https://www.cybelius.fr/?p=366)
+22:19:25	Warning: 	file not stored in cache due to bogus state (incomplete type with OK (200), size 0): https://www.cybelius.fr/index.php?rest_route=%2Foembed%2F1.0%2Fembed&url=https%3A%2F%2Fwww.cybelius.fr%2F%3Fp%3D324%26lang%3Den&format=xml
+22:19:25	Error: 	"Not Found" (404) at link www.cypres-security.fr/wp-content/uploads/2017/03/GSM.jpg (from https://www.cybelius.fr/?p=324)
+22:19:25	Error: 	"Service Unavailable" (503) at link https://www.cybelius.fr/index.php?rest_route=/wp/v2/tags/121 (from https://www.cybelius.fr/?tag=securite-2)
+22:19:25	Error: 	"Service Unavailable" (503) at link https://www.cybelius.fr/?feed=rss2&tag=stuxnet (from https://www.cybelius.fr/?tag=stuxnet)
+22:19:25	Error: 	"Service Unavailable" (503) at link https://www.cybelius.fr/index.php?rest_route=/wp/v2/tags/30 (from https://www.cybelius.fr/?tag=cybersecurite-2)
+22:19:25	Error: 	"Service Unavailable" (503) at link https://www.cybelius.fr/?feed=rss2&tag=objets-connectes (from https://www.cybelius.fr/?tag=objets-connectes)
+22:19:25	Error: 	"Service Unavailable" (503) at link https://www.cybelius.fr/index.php?rest_route=/wp/v2/tags/126 (from https://www.cybelius.fr/?tag=smartsystems)
+22:19:25	Error: 	"Service Unavailable" (503) at link https://www.cybelius.fr/index.php?rest_route=/wp/v2/tags/16 (from https://www.cybelius.fr/?tag=automaticiens)
+22:19:29	Warning: 	file not stored in cache due to bogus state (incomplete type with OK (200), size 0): https://www.cybelius.fr/index.php?rest_route=%2Foembed%2F1.0%2Fembed&url=https%3A%2F%2Fwww.cybelius.fr%2F%3Fp%3D236%26lang%3Den&format=xml
+22:19:33	Error: 	"Service Unavailable" (503) at link https://www.cybelius.fr/?tag=smart-grids (from https://www.cybelius.fr/?p=236)
+22:19:33	Error: 	"Not Found" (404) at link https://www.cybelius.fr/?page_id=3781%26lang%3Den (from https://www.cybelius.fr/?page_id=3781%26lang=en)
+22:19:33	Error: 	"Not Found" (404) at link https://www.cybelius.fr/?page_id=3721%26lang%3Den (from https://www.cybelius.fr/?page_id=3721%26lang=en)
+22:19:33	Error: 	"Not Found" (404) at link https://www.cybelius.fr/?page_id=3783%26lang%3Den (from https://www.cybelius.fr/?page_id=3783%26lang=en)
+22:19:33	Error: 	"Not Found" (404) at link https://www.cybelius.fr/?page_id=3789%26lang%3Den (from https://www.cybelius.fr/?page_id=3789%26lang=en)
+22:19:33	Warning: 	Moved Permanently for https://www.cybelius.fr/?p=2843
+22:19:33	Warning: 	File has moved from https://www.cybelius.fr/?p=2843 to https://www.cybelius.fr/?page_id=2843
+22:19:33	Warning: 	Moved Permanently for https://www.cybelius.fr/?p=2856
+22:19:33	Warning: 	File has moved from https://www.cybelius.fr/?p=2856 to https://www.cybelius.fr/?page_id=2856
+22:19:33	Error: 	"Not Found" (404) at link https://www.cybelius.fr/?page_id=3793%26lang%3Den (from https://www.cybelius.fr/?page_id=3793%26lang=en)
+22:19:33	Warning: 	Moved Permanently for https://www.cybelius.fr/?page_id=4302%26lang=en
+22:19:33	Warning: 	File has moved from https://www.cybelius.fr/?page_id=4302%26lang=en to https://www.cybelius.fr/?page_id=4302%26lang%3Den
+22:19:33	Warning: 	Moved Permanently for https://www.cybelius.fr/?page_id=4308%26lang=en
+22:19:33	Warning: 	File has moved from https://www.cybelius.fr/?page_id=4308%26lang=en to https://www.cybelius.fr/?page_id=4308%26lang%3Den
+22:19:33	Error: 	"Not Found" (404) at link https://www.cybelius.fr/?page_id=3800%26lang%3Den (from https://www.cybelius.fr/?page_id=3800%26lang=en)
+22:19:33	Warning: 	Moved Permanently for https://www.cybelius.fr/?page_id=3831%26lang=en
+22:19:33	Warning: 	File has moved from https://www.cybelius.fr/?page_id=3831%26lang=en to https://www.cybelius.fr/?page_id=3831%26lang%3Den
+22:19:34	Warning: 	Moved Permanently for https://www.cybelius.fr/?page_id=2756%26lang=en
+22:19:34	Warning: 	File has moved from https://www.cybelius.fr/?page_id=2756%26lang=en to https://www.cybelius.fr/?page_id=2756%26lang%3Den
+22:19:37	Error: 	"Not Found" (404) at link https://www.cybelius.fr/?page_id=3803%26lang%3Den (from https://www.cybelius.fr/?page_id=3803%26lang=en)
+22:19:37	Error: 	"Not Found" (404) at link https://www.cybelius.fr/?page_id=2736%26lang%3Den (from https://www.cybelius.fr/?page_id=2736%26lang=en)
+22:19:38	Warning: 	Moved Permanently for https://www.cybelius.fr/?page_id=3861&lang=en&page=3
+22:19:38	Warning: 	File has moved from https://www.cybelius.fr/?page_id=3861&lang=en&page=3 to https://www.cybelius.fr/?p=4375&lang=en&page_id=3861
+22:19:41	Warning: 	file not stored in cache due to bogus state (incomplete type with OK (200), size 0): https://www.cybelius.fr/index.php?rest_route=%2Foembed%2F1.0%2Fembed&url=https%3A%2F%2Fwww.cybelius.fr%2F%3Fp%3D571%26lang%3Den&format=xml
+22:19:44	Warning: 	file not stored in cache due to bogus state (incomplete type with OK (200), size 0): https://www.cybelius.fr/index.php?rest_route=%2Foembed%2F1.0%2Fembed&url=https%3A%2F%2Fwww.cybelius.fr%2F%3Fp%3D477%26lang%3Den&format=xml
+22:19:48	Warning: 	file not stored in cache due to bogus state (incomplete type with OK (200), size 0): https://www.cybelius.fr/index.php?rest_route=%2Foembed%2F1.0%2Fembed&url=https%3A%2F%2Fwww.cybelius.fr%2F%3Fp%3D383%26lang%3Den&format=xml
+22:19:48	Warning: 	Moved Permanently for https://www.cybelius.fr/?page_id=3861&lang=en&page=4
+22:19:48	Warning: 	File has moved from https://www.cybelius.fr/?page_id=3861&lang=en&page=4 to https://www.cybelius.fr/?p=4375&lang=en&page_id=3861
+22:20:08	Error: 	"Service Unavailable" (503) at link https://www.cybelius.fr/?feed=rss2&tag=pearl (from https://www.cybelius.fr/?tag=pearl)
+22:20:41	Error: 	"Service Unavailable" (503) at link https://www.cybelius.fr/?feed=rss2&tag=exera (from https://www.cybelius.fr/?tag=exera)
+22:20:41	Error: 	"Service Unavailable" (503) at link https://www.cybelius.fr/?feed=rss2&tag=cybelius-2 (from https://www.cybelius.fr/?tag=cybelius-2)
+22:20:41	Error: 	"Service Unavailable" (503) at link https://www.cybelius.fr/?feed=rss2&tag=gfi (from https://www.cybelius.fr/?tag=gfi)
+22:20:41	Error: 	"Service Unavailable" (503) at link https://www.cybelius.fr/index.php?rest_route=/wp/v2/tags/23 (from https://www.cybelius.fr/?tag=commission-europeenne)
+22:20:42	Error: 	"Service Unavailable" (503) at link https://www.cybelius.fr/index.php?rest_route=/wp/v2/tags/45 (from https://www.cybelius.fr/?tag=electricite)
+22:20:42	Error: 	"Not Found" (404) at link https://www.cybelius.fr/?page_id=4302%26lang%3Den (from https://www.cybelius.fr/?page_id=4302%26lang=en)
+22:20:42	Error: 	"Not Found" (404) at link https://www.cybelius.fr/?page_id=4308%26lang%3Den (from https://www.cybelius.fr/?page_id=4308%26lang=en)
+22:20:42	Error: 	"Not Found" (404) at link https://www.cybelius.fr/?page_id=3831%26lang%3Den (from https://www.cybelius.fr/?page_id=3831%26lang=en)
+22:20:42	Error: 	"Not Found" (404) at link https://www.cybelius.fr/?page_id=2756%26lang%3Den (from https://www.cybelius.fr/?page_id=2756%26lang=en)
+
+HTTrack Website Copier/3.49-2 mirror complete in 42 minutes 49 seconds : 1145 links scanned, 992 files written (60891203 bytes overall) [46133816 bytes received at 17957 bytes/sec], 20707403 bytes transferred using HTTP compression in 467 files, ratio 24%
+(95 errors, 239 warnings, 0 messages)
